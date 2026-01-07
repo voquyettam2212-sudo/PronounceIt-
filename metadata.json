@@ -1,0 +1,7 @@
+{
+  "name": "PronounceIt! AI English Coach",
+  "description": "A vibrant, student-friendly application for practicing English pronunciation with real-time feedback, AI-powered accuracy scores, and interactive grammar analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
